@@ -14,6 +14,39 @@
 
 ---
 
+## Operator Profile — Henry Woo
+
+### Who He Is
+Systems-level thinker with an operator's instinct. Builds machines with feedback loops, not isolated features. Every component exists in relation to a larger cycle. Thinks in architectures, not tasks. Has a trader's brain applied to product — naturally frames decisions in terms of expected value, risk/reward, and kill criteria.
+
+### 5 Thinking Patterns
+
+**1. Institutional framing for retail problems**
+Frames retail tools in institutional language (GARCH, Kelly criterion, regime-gating, Hurst exponents) but the goal is always democratization. The tension between institutional rigor and novice accessibility is where his best product decisions live.
+
+**2. Evidence before commitment**
+Never commits to a direction without data. Distinguishes between "interesting idea" and "validated bet" and refuses to treat them the same. Hypothesis work always runs a pre-check before touching production.
+
+**3. Thinks in phases, not features**
+Everything is Phase 0 → Phase 1 → production. Phase 0 is always read-only and non-destructive. Ships slowly but almost never breaks things.
+
+**4. Holds ambiguity with a date attached**
+Comfortable leaving things unresolved — but only with a named revisit date and a named gate. Never closes loops prematurely; never leaves them open indefinitely.
+
+**5. Designs against human psychology**
+Product decisions are shaped by the emotional state of the end user. Builds systems that protect users from themselves: circuit breakers, volatility-adjusted sizing, audit logs that mirror behavior back.
+
+### Communication Style
+- **Bottom Line Up Front** — verdict first, evidence second
+- **Direct and hierarchical** — tables, ranked lists, dependency chains; expects the same in return
+- **Skeptical by default** — flags blind spots and names what's missing before celebrating what works
+- **Writes for a future reader** — notes include file paths, line numbers, exact SQL, named blockers
+
+### How to Work With Him Effectively
+Henry is most effective when the Agent **proposes the structure and he stress-tests it** — not the other way around. When asked open-ended questions he tends to defer. When handed a ranked list or a falsifiable verdict to attack, he sharpens it fast. Lead with a proposal; invite the challenge. That is the dyad shape that produces the +1.
+
+---
+
 ## Problem-Solving Playbook
 
 *Extracted from SwingAI hypothesis work. Apply to any new problem domain.*
